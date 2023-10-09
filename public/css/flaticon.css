@@ -1,0 +1,314 @@
+/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 23/01/2019 13:57
+  	*/
+
+@font-face {
+  font-family: "Flaticon";
+  src: url("../fonts/flaticon.eot");
+  src: url("../fonts/flaticond41d.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/flaticon.woff2") format("woff2"),
+    url("../fonts/flaticon.woff") format("woff"),
+    url("../fonts/flaticon.ttf") format("truetype"),
+    url("../fonts/flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio: 0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("../fonts/flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="pbmit-itinc-icon-"]:before,
+[class*=" pbmit-itinc-icon-"]:before,
+[class^="pbmit-itinc-icon-"]:after,
+[class*=" pbmit-itinc-icon-"]:after {
+  font-family: Flaticon;
+  font-style: normal;
+}
+
+.pbmit-itinc-icon-phone-call:before {
+  content: "\f100";
+}
+.pbmit-itinc-icon-pin:before {
+  content: "\f101";
+}
+.pbmit-itinc-icon-open:before {
+  content: "\f102";
+}
+.pbmit-itinc-icon-email:before {
+  content: "\f103";
+}
+.pbmit-itinc-icon-customer-service:before {
+  content: "\f104";
+}
+.pbmit-itinc-icon-code:before {
+  content: "\f105";
+}
+.pbmit-itinc-icon-website:before {
+  content: "\f106";
+}
+.pbmit-itinc-icon-marketing:before {
+  content: "\f107";
+}
+.pbmit-itinc-icon-speaker:before {
+  content: "\f108";
+}
+.pbmit-itinc-icon-aim:before {
+  content: "\f109";
+}
+.pbmit-itinc-icon-settings:before {
+  content: "\f10a";
+}
+.pbmit-itinc-icon-world:before {
+  content: "\f10b";
+}
+.pbmit-itinc-icon-workplace:before {
+  content: "\f10c";
+}
+.pbmit-itinc-icon-presentation:before {
+  content: "\f10d";
+}
+.pbmit-itinc-icon-target:before {
+  content: "\f10e";
+}
+.pbmit-itinc-icon-laptop:before {
+  content: "\f10f";
+}
+.pbmit-itinc-icon-bar-chart:before {
+  content: "\f110";
+}
+.pbmit-itinc-icon-businessman:before {
+  content: "\f111";
+}
+.pbmit-itinc-icon-businesswoman:before {
+  content: "\f112";
+}
+.pbmit-itinc-icon-list:before {
+  content: "\f113";
+}
+.pbmit-itinc-icon-call:before {
+  content: "\f114";
+}
+.pbmit-itinc-icon-smartphone:before {
+  content: "\f115";
+}
+.pbmit-itinc-icon-smartphone-1:before {
+  content: "\f116";
+}
+.pbmit-itinc-icon-development:before {
+  content: "\f117";
+}
+.pbmit-itinc-icon-programing:before {
+  content: "\f118";
+}
+.pbmit-itinc-icon-quality-assurance:before {
+  content: "\f119";
+}
+.pbmit-itinc-icon-shield:before {
+  content: "\f11a";
+}
+.pbmit-itinc-icon-antivirus:before {
+  content: "\f11b";
+}
+.pbmit-itinc-icon-protection:before {
+  content: "\f11c";
+}
+.pbmit-itinc-icon-server:before {
+  content: "\f11d";
+}
+.pbmit-itinc-icon-android:before {
+  content: "\f11e";
+}
+.pbmit-itinc-icon-apple:before {
+  content: "\f11f";
+}
+.pbmit-itinc-icon-tv-monitor:before {
+  content: "\f120";
+}
+.pbmit-itinc-icon-tv-screen:before {
+  content: "\f121";
+}
+.pbmit-itinc-icon-smartphone-2:before {
+  content: "\f122";
+}
+.pbmit-itinc-icon-research:before {
+  content: "\f123";
+}
+.pbmit-itinc-icon-laptop-1:before {
+  content: "\f124";
+}
+.pbmit-itinc-icon-customer-service-1:before {
+  content: "\f125";
+}
+.pbmit-itinc-icon-customer-service-2:before {
+  content: "\f126";
+}
+.pbmit-itinc-icon-graph:before {
+  content: "\f127";
+}
+.pbmit-itinc-icon-smart-watch:before {
+  content: "\f128";
+}
+.pbmit-itinc-icon-smartwatch:before {
+  content: "\f129";
+}
+.pbmit-itinc-icon-digital:before {
+  content: "\f12a";
+}
+.pbmit-itinc-icon-campaign:before {
+  content: "\f12b";
+}
+.pbmit-itinc-icon-global-server:before {
+  content: "\f12c";
+}
+.pbmit-itinc-icon-pdf:before {
+  content: "\f12d";
+}
+.pbmit-itinc-icon-document:before {
+  content: "\f12e";
+}
+.pbmit-itinc-icon-server-1:before {
+  content: "\f12f";
+}
+.pbmit-itinc-icon-html:before {
+  content: "\f130";
+}
+.pbmit-itinc-icon-file-extension:before {
+  content: "\f131";
+}
+.pbmit-itinc-icon-app:before {
+  content: "\f132";
+}
+.pbmit-itinc-icon-c-sharp:before {
+  content: "\f133";
+}
+.pbmit-itinc-icon-xml:before {
+  content: "\f134";
+}
+.pbmit-itinc-icon-php:before {
+  content: "\f135";
+}
+.pbmit-itinc-icon-html-5:before {
+  content: "\f136";
+}
+.pbmit-itinc-icon-brands-and-logotypes:before {
+  content: "\f137";
+}
+.pbmit-itinc-icon-brands-and-logotypes-1:before {
+  content: "\f138";
+}
+.pbmit-itinc-icon-brands-and-logotypes-2:before {
+  content: "\f139";
+}
+.pbmit-itinc-icon-youtube:before {
+  content: "\f13a";
+}
+.pbmit-itinc-icon-brands-and-logotypes-3:before {
+  content: "\f13b";
+}
+.pbmit-itinc-icon-wordpress:before {
+  content: "\f13c";
+}
+.pbmit-itinc-icon-brands-and-logotypes-4:before {
+  content: "\f13d";
+}
+.pbmit-itinc-icon-ios:before {
+  content: "\f13e";
+}
+.pbmit-itinc-icon-brands-and-logotypes-5:before {
+  content: "\f13f";
+}
+.pbmit-itinc-icon-whatsapp:before {
+  content: "\f140";
+}
+.pbmit-itinc-icon-file-and-folder:before {
+  content: "\f141";
+}
+.pbmit-itinc-icon-html-1:before {
+  content: "\f142";
+}
+.pbmit-itinc-icon-code-1:before {
+  content: "\f143";
+}
+.pbmit-itinc-icon-printer:before {
+  content: "\f144";
+}
+.pbmit-itinc-icon-agile:before {
+  content: "\f145";
+}
+.pbmit-itinc-icon-analysis:before {
+  content: "\f146";
+}
+.pbmit-itinc-icon-innovation:before {
+  content: "\f147";
+}
+.pbmit-itinc-icon-target-1:before {
+  content: "\f148";
+}
+.pbmit-itinc-icon-customer-service-3:before {
+  content: "\f149";
+}
+.pbmit-itinc-icon-encrypted:before {
+  content: "\f14a";
+}
+.pbmit-itinc-icon-creativity:before {
+  content: "\f14b";
+}
+.pbmit-itinc-icon-meeting:before {
+  content: "\f14c";
+}
+.pbmit-itinc-icon-consultation:before {
+  content: "\f14d";
+}
+.pbmit-itinc-icon-call-center:before {
+  content: "\f14e";
+}
+.pbmit-itinc-icon-trophy:before {
+  content: "\f14f";
+}
+.pbmit-itinc-icon-opportunity:before {
+  content: "\f150";
+}
+.pbmit-itinc-icon-chatting:before {
+  content: "\f151";
+}
+.pbmit-itinc-icon-server-2:before {
+  content: "\f152";
+}
+.pbmit-itinc-icon-drone:before {
+  content: "\f153";
+}
+.pbmit-itinc-icon-towers:before {
+  content: "\f154";
+}
+.pbmit-itinc-icon-phone-message:before {
+  content: "\f155";
+}
+.pbmit-itinc-icon-wireless-router:before {
+  content: "\f156";
+}
+.pbmit-itinc-icon-mobile-app:before {
+  content: "\f157";
+}
+.pbmit-itinc-icon-pdf-1:before {
+  content: "\f158";
+}
+.pbmit-itinc-icon-document-1:before {
+  content: "\f159";
+}
+.pbmit-itinc-icon-verified:before {
+  content: "\f15a";
+}
+.pbmit-itinc-icon-accept:before {
+  content: "\f15b";
+}
+.pbmit-itinc-icon-comment:before {
+  content: "\f15c";
+}
+.pbmit-itinc-icon-rec:before {
+  content: "\f15d";
+}
